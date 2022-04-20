@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721296542859",
+    "project_id": "firenotes-759b4",
+    "storage_bucket": "firenotes-759b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721296542859:android:267a1efda368742960988e",
+        "android_client_info": {
+          "package_name": "com.example.tanayanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721296542859-ilklt3lis4oqr2sa3mk9ct73jtvs0v7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-w5sLrP0xGz8IsyOUXBB95JQ52GXdF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721296542859-ilklt3lis4oqr2sa3mk9ct73jtvs0v7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
